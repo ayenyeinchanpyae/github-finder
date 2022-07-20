@@ -34,7 +34,7 @@ function UserSearch() {
               <input
                 type="text"
                 className="w-[50] lg:pr-40 xl:pr-40 md:pr-40 bg-gray-200 input input-lg text-black"
-                placeholder="Search "
+                placeholder="Search a github profile"
                 value={text}
                 onChange={handleChange}
               />
