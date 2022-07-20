@@ -40,7 +40,7 @@ function UserSearch() {
               />
               <button
                 type="submit"
-                className="top-0 right-0 rounded-l-none w-26 lg:w-36 xl:w-36 md:w-36  btn btn-lg"
+                className="top-0 right-0 rounded-l-none w-26 lg:w-36 xl:w-36 md:w-36  btn btn-lg bg-sky-900 "
               >
                 Go
               </button>
